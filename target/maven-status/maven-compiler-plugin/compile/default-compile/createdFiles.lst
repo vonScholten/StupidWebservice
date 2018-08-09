@@ -1,0 +1,8 @@
+hangman\rest\LoginResource.class
+brugerautorisation\data\Diverse.class
+hangman\rest\ApplicationConfig.class
+brugerautorisation\data\Bruger.class
+brugerautorisation\transport\rmi\Brugeradmin.class
+brugerautorisation\server\Serialisering.class
+brugerautorisation\server\Brugerdatabase.class
+hangman\rest\User.class
